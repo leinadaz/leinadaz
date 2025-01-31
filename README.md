@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"></p>
+<h1 align="left"></h1>
 
 ###
 
@@ -15,19 +15,19 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="35" alt="rstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="35" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo"  />
 </div>
 
 ###
@@ -44,11 +44,13 @@
 
 ###
 
-<p align="left"></p>
+<h1 align="left"></h1>
 
 ###
 
-<img src="https://raw.githubusercontent.com/leinadaz/leinadaz/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="110" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjR1czY5Y2htbjFibXNiaTJuMGlrbWwzbG91ZnhhaXlwY3N5bDNpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif"  />
+</div>
 
 ###
 
@@ -57,6 +59,10 @@
 ###
 
 <h4 align="center">Social Media</h4>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -71,5 +77,9 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<h1 align="left"></h1>
 
 ###
