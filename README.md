@@ -1,8 +1,8 @@
-<h2 align="center">Sobre mim💀</h2>
+<h2 align="center">Sobre mim</h2>
 
 ###
 
-<h6 align="center">✨ Creating data insights since 2024 <br>📚 Atualmente estudando: Data Science na FIAP <br>✈️ Trabalho: CTM Aeronáutico <br>🎯 Metas: Tornar-se especialista em IA e Ciência de Dados</h6>
+<h6 align="center">✨ Creating data insights since 2024 </h6>
 
 ###
 
